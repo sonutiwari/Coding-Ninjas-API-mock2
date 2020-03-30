@@ -12,7 +12,7 @@ Requirements can be found here [Requirements](./assets/requirements.txt).
 
 ### step 2
 
-- go to imagekit_assignment directory, command `cd Coding-Ninjas-API-mock2`
+- go to Coding-Ninjas-API-mock2 directory, command `cd Coding-Ninjas-API-mock2`
 
 ### step 3
 
@@ -41,5 +41,8 @@ nodemon is installed, simply run `nodemon`.
 2. MongoDB
 3. Mongoose
 4. NodeJS
-
+5. Validator
+6. cookie-session
+7. jsonwebtoken
+8. bcrypt
 ```
