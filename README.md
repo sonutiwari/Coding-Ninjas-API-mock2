@@ -1,7 +1,7 @@
 # Coding-Ninjas-API-mock2
 API Mock test 2 of coding Ninjas
 
-Requirements can be found here [Requirements](./assets/requirements.pdf).
+Requirements can be found here [Requirements](./assets/requirements.txt).
 
 ### Set Up
 
