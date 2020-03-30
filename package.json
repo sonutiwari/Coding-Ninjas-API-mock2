@@ -18,8 +18,12 @@
   },
   "homepage": "https://github.com/sonutiwari/Coding-Ninjas-API-mock2#readme",
   "dependencies": {
+    "bcrypt": "^4.0.1",
+    "cookie-session": "^1.4.0",
     "express": "^4.17.1",
     "express-jwt": "^5.3.1",
-    "mongoose": "^5.9.6"
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.6",
+    "validator": "^13.0.0"
   }
 }

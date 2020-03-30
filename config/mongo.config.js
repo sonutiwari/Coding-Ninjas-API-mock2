@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 
 // Connect to DB
-mongoose.connect('mongodb://localhost:27017/products'
+mongoose.connect('mongodb://localhost:27017/hospital'
                                       , { 
                                           useUnifiedTopology: true,
                                           useNewUrlParser   : true
